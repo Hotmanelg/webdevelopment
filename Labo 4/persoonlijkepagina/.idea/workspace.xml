@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e946bd0-9f90-4868-ba8b-eec75d551a4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/hobby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/images/1781676351-shrek-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/images/images (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/images/images (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persoonlijkepagina_relatieve/likes.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000058301744" />
+      <entry key="S5" value="1.002009379048448" />
+      <entry key="S10" value="1.0765785643919548" />
+      <entry key="S30" value="2.067216320124679" />
+      <entry key="S60" value="3.3545363423633416" />
+      <entry key="M2" value="5.047315167301518" />
+      <entry key="M5" value="7.5212620150233915" />
+      <entry key="M10" value="8.973874959654246" />
+      <entry key="M15" value="9.574045033331613" />
+      <entry key="M30" value="10.2460261084337" />
+      <entry key="H1" value="10.6120704322976" />
+      <entry key="H2" value="10.803207465456186" />
+      <entry key="H4" value="10.900884926883837" />
+      <entry key="D1" value="10.983379962644099" />
+      <entry key="W1" value="10.997623225471225" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="6.278711655852423E-169" />
+      <entry key="S2" value="1.0543516982065508E-42" />
+      <entry key="S5" value="2.6298823704206735E-17" />
+      <entry key="S10" value="8.579521936037817E-9" />
+      <entry key="S30" value="0.004225110700133619" />
+      <entry key="S60" value="0.1124755141829632" />
+      <entry key="M2" value="0.5807438829481844" />
+      <entry key="M5" value="1.5553978055146984" />
+      <entry key="M10" value="2.160116558671041" />
+      <entry key="M15" value="2.4100401625527703" />
+      <entry key="M30" value="2.6888854617694777" />
+      <entry key="H1" value="2.8401852181841054" />
+      <entry key="H2" value="2.9189988893581726" />
+      <entry key="H4" value="2.9592222585622805" />
+      <entry key="D1" value="2.9931648886749795" />
+      <entry key="W1" value="2.9990226005638783" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8766057213160351" />
+      <entry key="MS500" value="0.974004268543241" />
+      <entry key="S2" value="0.9934367691775674" />
+      <entry key="S5" value="0.9988231332850406" />
+      <entry key="S10" value="1.0586908573799516" />
+      <entry key="S30" value="1.968815534357866" />
+      <entry key="S60" value="3.350965840930892" />
+      <entry key="M2" value="5.53004698166895" />
+      <entry key="M5" value="9.016954739891329" />
+      <entry key="M10" value="11.098699075252386" />
+      <entry key="M15" value="11.959119167116922" />
+      <entry key="M30" value="12.921641458964697" />
+      <entry key="H1" value="13.445409821739405" />
+      <entry key="H2" value="13.71872888313104" />
+      <entry key="H4" value="13.85835456974179" />
+      <entry key="D1" value="13.976250800167154" />
+      <entry key="W1" value="13.996603770735103" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ke7mfWJu5M41H4oAZuDPmT43f1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Hotma/OneDrive/Documenten/GitHub/webdevelopment/Labo 4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hotma\OneDrive\Documenten\GitHub\webdevelopment\Labo 4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hotma\OneDrive\Documenten\GitHub\webdevelopment\Labo 4\persoonlijkepagina" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e946bd0-9f90-4868-ba8b-eec75d551a4e" name="Changes" comment="" />
+      <created>1790339158425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790339158425</updated>
+      <workItem from="1790339172144" duration="521000" />
+      <workItem from="1790341130723" duration="111000" />
+      <workItem from="1791906343187" duration="27000" />
+      <workItem from="1792154948440" duration="504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
