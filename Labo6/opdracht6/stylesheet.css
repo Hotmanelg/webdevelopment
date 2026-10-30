@@ -1,0 +1,18 @@
+ul.checklist {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul.checklist li {
+    padding-left: 25px; /* Ruimte vrijmaken voor het icoontje */
+    background-image: url('kruis.avif'); /* Vervang door jouw pad naar het lege vakje/icoon */
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px; /* Optioneel: pas de grootte aan indien nodig */
+    margin-bottom: 5px;
+}
+
+
+ul.checklist li.checked {
+    background-image: url('vinkje.png'); /* Vervang door jouw pad naar het vinkje-icoon */
+}

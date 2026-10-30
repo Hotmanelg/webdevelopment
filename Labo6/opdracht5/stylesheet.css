@@ -1,0 +1,7 @@
+a.icon-link {
+    padding-left: 25px; /* Zorg dat dit groot genoeg is voor je icoontje */
+    background-image: url('download.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 16px 16px; /* Optioneel: pas de grootte van het icoontje aan als het te groot is */
+}

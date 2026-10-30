@@ -1,0 +1,38 @@
+p{
+    font-family: Helvetica;
+}
+.achtergrondheaderfooter{
+    background-color: #2B2D42;
+    color: #8D99AE ;
+}
+.rodekleurlinks{
+    color: #EF233C;
+}
+
+
+header h1{
+    color: #EDF2F4;
+    font-size: 80px;
+}
+header h2{
+    color: #EDF2F4;
+    font-size: 40px;
+}
+h2{
+    font-size: 40px;
+}
+
+.education{
+    padding: 30px;
+    background-color: #8D99AE;
+}
+footer{
+    padding: 30px;
+    margin: 10px;
+    margin-top: 10px;
+}
+header{
+    padding: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+}
