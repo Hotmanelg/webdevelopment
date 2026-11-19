@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f0;
+    color: #1f291c;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #2f5226;
+    color: #ffffff;
+    padding: 16px 24px;
+}
+
+header h1 {
+    margin: 0 0 8px;
+}
+
+nav a {
+    color: #d9f2b4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 16px;
+}
+
+section {
+    background-color: #ffffff;
+    border: 1px solid #d4ddd0;
+    border-radius: 6px;
+    padding: 18px 22px;
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-top: 0;
+    color: #2f5226;
+    border-bottom: 1px solid #e2e8df;
+    padding-bottom: 6px;
+}
+
+/* Collapsed margins zichtbaar maken op lijstitems (hobby.html / likes.html) */
+ul li {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+/* Vriendentabel */
+.vrienden-tabel {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+}
+
+.vrienden-tabel th,
+.vrienden-tabel td {
+    border: 1px solid #cbd5c7;
+    padding: 8px 10px;
+    text-align: left;
+}
+
+.vrienden-tabel thead th {
+    background-color: #3b6630;
+    color: #ffffff;
+}
+
+.vrienden-tabel tbody tr.alt td {
+    background-color: #eef4ec;
+}
+
+.vrienden-tabel td.onbekend,
+.vrienden-tabel tbody tr.alt td.onbekend {
+    background-color: #e55353;
+    color: #ffffff;
+    font-weight: bold;
+}
