@@ -1,0 +1,101 @@
+/* Algemene typografie en layout (95% breedte en gecentreerd) */
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    text-align: center;
+}
+
+#imgHeader {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Standaardkleuren en groottes voor h1 en h2 */
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+/* Zijbalk: Weekly Specials */
+#elixirs {
+    float: right;
+    width: 22%;
+    border: 1px solid #007e7e;
+    padding: 15px 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    box-sizing: border-box;
+}
+
+/* Andere kleuren voor h1 en h2 binnen Weekly Specials */
+#elixirs h1 {
+    color: #b8332a;
+}
+
+#elixirs h2 {
+    color: #2c6e49;
+}
+
+/* Bruine achtergrond bij hover op links in Weekly Specials */
+#elixirs a:hover {
+    background-color: #8b4513;
+    color: #ffffff;
+}
+
+/* Hoofdinhoud (70% breedte naast de zwevende zijbalk) */
+#content {
+    float: left;
+    width: 70%;
+    box-sizing: border-box;
+}
+
+/* Guarantee-blok: marge 30px, padding 20px, kleur #444444, bg #a7cece, witte stippellijn, cursief en vet */
+#guarantee {
+    margin: 30px;
+    padding: 20px;
+    color: #444444;
+    background-color: #a7cece;
+    border: 1px dashed #ffffff;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* Muzieklijst styling */
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+/* Footer: helft van de algemene lettergrootte (1.2em / 2 = 0.6em, of 50% t.o.v. body) */
+footer {
+    clear: both;
+    font-size: 50%;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
