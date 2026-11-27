@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 10px; /* 10px marge links en rechts */
+    font-family: Arial, sans-serif;
+}
+
+article {
+    border: 1px solid #444444; /* Donkere rand rond elk artikel */
+    padding: 10px;
+    margin: 10px 0; /* 10px marge tussen de artikels */
+    overflow: auto;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.25em; /* Lettergrootte 1.25em */
+    margin: 0;
+    overflow: hidden;
+}
+
+/* Oneven artikels (1, 3, ...): foto links, 10px marge rechts */
+article:nth-of-type(odd) img {
+    float: left;
+    margin-right: 10px;
+}
+
+/* Even artikels (2, 4, ...): foto rechts, 10px marge links */
+article:nth-of-type(even) img {
+    float: right;
+    margin-left: 10px;
+}

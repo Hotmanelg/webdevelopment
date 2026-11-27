@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+/* Top-banner */
+.top-banner {
+    position: relative;
+    height: 200px;
+    background-image: url("../images/bgsky3.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: darkblue;
+    overflow: hidden;
+}
+
+.top-title,
+.top-subtitle {
+    position: relative;
+    z-index: 1;
+    margin: 0;
+}
+
+.top-title {
+    padding-top: 12px;
+    font-size: 300%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.top-subtitle {
+    margin-top: 8px;
+    font-size: 240%;
+    font-weight: bold;
+}
+
+.top-plane {
+    position: absolute;
+    right: 250px;
+    bottom: 60px;
+    z-index: 2;
+}
+
+/* Middengebied: flex zorgt dat links en rechts even hoog zijn */
+.content-area {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.main-content {
+    width: 75%;
+    background-color: #999999;
+}
+
+/* Introductiegebied */
+.intro-section {
+    background-color: #ffffff;
+    color: #000000;
+    overflow: auto;
+}
+
+.intro-logo {
+    float: left;
+    margin: 20px;
+}
+
+.intro-logo img {
+    display: block;
+}
+
+.intro-text {
+    overflow: hidden;
+    margin: 20px 30px 20px 0;
+    text-align: justify;
+}
+
+.intro-text p {
+    margin: 0;
+}
+
+.highlight-blue {
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Galerijgebied */
+.gallery-section {
+    background-color: #999999;
+    padding: 20px 0 0 20px;
+    overflow: auto;
+}
+
+.photo-card {
+    float: left;
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px dashed #999999;
+    margin: 0 20px 20px 0;
+}
+
+.photo-card img {
+    display: block;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
+
+/* Nieuwsgebied */
+.news-sidebar {
+    width: 25%;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+}
+
+.news-block h3 {
+    margin: 0;
+    padding: 4px 10px;
+    background-color: blue;
+    color: #ffffff;
+    text-align: center;
+    font-size: 120%;
+}
+
+.news-block p {
+    margin: 10px;
+    color: #666666;
+    font-size: 90%;
+    text-align: justify;
+}
+
+/* Onderkant & copyright */
+.site-footer {
+    margin-top: 10px;
+}
+
+.footer-links {
+    background-color: #666666;
+    color: #ffffff;
+    line-height: 2em;
+    padding: 15px 0;
+    overflow: auto;
+}
+
+.footer-block {
+    float: left;
+    margin-left: 120px;
+}
+
+.footer-links a {
+    color: inherit;
+}
+
+.footer-links a:hover {
+    color: red;
+}
+
+.copyright {
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.copyright p {
+    margin: 0;
+}
